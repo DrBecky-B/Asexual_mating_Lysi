@@ -1,0 +1,134 @@
+Number	Set up date	Block	Line	Mated/Virgin	N nymphs	survival (hours)	Failed to parasitise	Failed to produce offspring	Mating failure	Mummies	Wasps	Unemerged	Males 	Females	Exclude (lost or killed mother)	SA	Alleles
+1	21-May	1	64	Mated	88	31.5	0	0	NA	23	13	10	0	12	0	1	184.192
+2	21-May	1	Sexual	Virgin	78	72	0	0	NA	23	15	8	3	0	0		
+3	21-May	1	Sexual	Mated	60	72	0	0	0	40	29	11	7	22	0		
+4	21-May	1	402	Virgin	89	31.5	0	0	NA	13	1	12	0	1	0		
+5	21-May	1	402	Mated	97	72	0	0	NA	30	20	10	0	30	0	1	184.192
+6	21-May	1	348	Virgin	56	47.25	0	0	NA	14	7	7	1	13	0	1	184.192
+7	21-May	1	Sexual	Mated	66	72	0	0	0	43	26	17	3	23	0		
+8	21-May	1	64	Virgin	91	72	0	0	NA	48	28	20	0	6	0		
+9	21-May	1	Sexual	Mated	93	31.5	0	0	0	38	17	21	2	13	0		
+10	21-May	1	Sexual	Mated	36	72	0	0	0	17	17	0	2	15	0		
+11	21-May	1	402	Virgin	115	72	0	0	NA	9	3	6	0	3	0	0	184.184
+12	21-May	1	64	Mated	81	24.5	0	0	NA	9	4	5	0	1	0	0	184.184
+13	21-May	1	Sexual	Virgin	124	24.5	1	1	NA	0	0	0	0	0	0		
+14	21-May	1	402	Virgin	102	72	0	0	NA	16	12	4	0	1	0		
+15	21-May	1	Sexual	Mated	80	72	1	1	NA	0	0	0	0	0	0		
+16	21-May	1	Sexual	Virgin	35	47.25	0	0	NA	17	15	2	5	0	0		
+17	21-May	1	Sexual	Virgin	90	72	1	1	NA	0	0	0	0	0	0		
+18	21-May	1	554	Mated	51	31.5	0	0	NA	6	4	2	3	5	0	1	184.192
+19	21-May	1	554	Virgin	41	47.25	0	0	NA	22	2	20	0	0	0		
+20	21-May	1	554	Mated	46	72	0	0	NA	5	1	4	0	0	0		
+21	21-May	1	Sexual	Virgin	94	72	0	0	NA	34	19	15	34	0	0		
+22	21-May	1	554	Mated	78	72	0	0	NA	4	1	3	0	1	0		
+23	21-May	1	402	Virgin	89	24.5	0	0	NA	8	2	6	4	4	0		
+24	21-May	1	64	Mated	91	72	0	0	NA	22	7	15	0	22	0	1	184.192
+25	21-May	1	Sexual	Virgin	50	47.25	0	0	NA	19	7	12	1	0	0		
+26	21-May	1	Sexual	Virgin	83	47.25	0	0	NA	39	32	7	17	2	0		
+27	21-May	1	Sexual	Virgin	54	72	0	0	NA	23	16	7	16	0	0		
+28	21-May	1	402	Mated	46	31.5	0	1	NA	3	0	3	0	7	0	1	184.192
+29	21-May	1	348	Virgin	50	72	0	0	NA	25	21	4	0	5	0		
+30	21-May	1	Sexual	Mated	56	72	0	0	0	26	14	12	10	4	0		
+31	21-May	1	Sexual	Virgin	99	72	0	0	NA	12	6	6	12	0	0		
+32	21-May	1	Sexual	Mated	69	72	0	0	0	30	6	24	1	5	0		
+33	21-May	1	64	Virgin	65	72	0	0	NA	31	24	7	0	24	0		
+34	21-May	1	348	Mated	72	72	0	0	NA	16	5	11	0	7	0	1	184.192
+35	21-May	1	84	Virgin	43	72	0	0	NA	5	3	2	0	2	0		
+36	21-May	1	658	Mated	41	24.5	1	1	NA	0	0	0	0	0	0		
+37	21-May	1	554	Virgin	44	47.25	1	1	NA	0	0	0	0	0	0		
+38	21-May	1	348	Virgin	73	72	0	0	NA	8	4	4	0	4	0	0	184.184
+39	21-May	1	64	Virgin	65	72	0	0	NA	21	3	18	0	0	0		
+40	21-May	1	658	Virgin	112	24.5	0	0	NA	2	1	1	0	2	0		
+41	21-May	1	Sexual	Virgin	143	72	0	0	NA	40	26	14	21	0	0		
+42	21-May	1	554	Virgin	113	72	0	0	NA	8	4	4	3	5	0		
+43	21-May	1	Sexual	Virgin	73	72	1	1	NA	0	0	0	0	0	1		
+44	21-May	1	64	Virgin	63	47.25	0	0	NA	38	19	19	0	11	0		
+50	22-May	2	402	Mated	77	47.5	0	0	NA	36	3	33	0	7	0		
+51	22-May	2	402	Virgin	100	31.16666667	0	0	NA	1	1	0	0	0	0		
+52	22-May	2	Sexual	Mated	82	72	0	0	0	43	22	21	8	14	0		
+54	22-May	2	64	Mated	38	47.5	0	1	NA	6	0	6	0	0	0		
+55	22-May	2	Sexual	Virgin	77	72	0	0	NA	34	26	8	16	0	0		
+56	22-May	2	Sexual	Mated	83	47.5	0	0	0	9	6	3	1	1	0		
+57	22-May	2	Sexual	Virgin	109	72	1	1	NA	0	0	0	0	0	0		
+58	22-May	2	658	Mated	48	72	0	0	NA	31	16	15	0	8	0	1	184.192
+59	22-May	2	348	Virgin	84	72	0	0	NA	26	11	15	0	9	0		
+60	22-May	2	402	Mated	100	31.16666667	0	1	NA	12	0	12	0	4	0	1	184.192
+61	22-May	2	402	Virgin	50	72	1	1	NA	0	0	0	0	0	1		
+62	22-May	2	64	Mated	83	72	0	0	NA	49	35	14	3	30	0	1	192.192
+63	22-May	2	348	Virgin	94	72	1	1	NA	0	0	0	0	0	1		
+64	22-May	2	658	Mated	97	47.5	0	1	NA	2	0	2	0	0	0		
+65	22-May	2	348	Virgin	112	72	0	0	NA	32	5	27	0	0	0		
+66	22-May	2	402	Mated	46	72	0	0	NA	21	1	20	0	0	0		
+67	22-May	2	Sexual	Virgin	54	72	0	0	NA	41	31	10	20	0	0		
+68	22-May	2	402	Mated	73	72	0	0	NA	43	9	34	0	0	0		
+69	22-May	2	Sexual	Virgin	66	72	1	1	NA	0	0	0	0	0	0		
+70	22-May	2	Sexual	Mated	90	72	0	0	0	45	20	25	3	11	0		
+71	22-May	2	Sexual	Virgin	154	31.16666667	0	0	NA	30	21	9	12	0	0		
+72	22-May	2	64	Mated	91	72	0	0	NA	33	19	14	0	11	0	1	184.192
+73	22-May	2	554	Virgin	79	72	1	1	NA	0	0	0	0	0	1		
+76	22-May	2	Sexual	Mated	42	72	0	0	0	28	27	1	8	19	0	1	192.192
+77	22-May	2	402	Virgin	47	47.5	0	0	NA	13	5	8	0	10	0		
+78	22-May	2	402	Mated	35	72	0	0	NA	21	3	18	0	5	0	1	184.192
+79	22-May	2	348	Virgin	37	72	0	0	NA	94	12	82	0	19	0		
+80	22-May	2	Sexual	Mated	80	72	0	0	NA	12	2	10			0		
+81	22-May	2	64	Virgin	59	47.5	0	0	NA	17	9	8	0	9	0		
+82	22-May	2	66	Mated	95	47.5	0	0	NA	11	1	10	0	8	0	1	184.192
+83	22-May	2	64	Virgin	94	47.5	0	0	NA	35	24	11	0	20	0		
+84	22-May	2	348	Mated	74	72	0	0	NA	23	7	16	0	6	0	1	184.192
+85	22-May	2	84	Virgin	70	72	0	0	NA	38	18	20	0	35	0		
+86	22-May	2	554	Mated	55	72	0	0	NA	23	20	3	1	28	0	0	184.184
+87	22-May	2	554	Virgin	100	47.5	1	1	NA	0	0	0	0	0	0		
+88	22-May	2	348	Mated	67	72	1	1	NA	0	0	0	0	0	0		
+89	22-May	2	66	Virgin	82	72	0	0	NA	50	25	25	0	13	0		
+90	22-May	2	66	Mated	87	72	0	0	NA	11	1	10	0	9	0	0	184.184
+91	22-May	2	658	Virgin	100	72	0	0	NA	21	17	4	0	9	0	0	184.184
+92	22-May	2	348	Mated	56	47.5	0	1	NA	7	0	7	0	1	0		
+93	22-May	2	84	Virgin	75	47.5	0	0	NA	17	16	1	0	11	0	0	184.184
+94	22-May	2	554	Mated	47	31.16666667	0	0	NA	13	2	11	1	2	0	1	192.192
+95	22-May	2	402	Virgin	63	31.16666667	1	1	NA	0	0	0	0	0	0		
+96	22-May	2	84	Mated	117	47.5	0	0	NA	3	2	1	0	0	0		
+97	22-May	2	66	Virgin	100	72	0	0	NA	57	40	17	0	31	0		
+98	22-May	2	402	Mated	77	47.5	0	0	NA	9	3	6	0	9	0	1	184.192
+99	22-May	2	84	Virgin	62	72	0	0	NA	63	32	31	0	27	0		
+105	23-May	3	Sexual	Mated	83	31.5	1	1	NA	0	0	0	0	0	0		
+106	23-May	3	84	Mated	72	47.5	0	0	NA	45	17	28	0	7	0	0	184.184
+107	23-May	3	64	Virgin	131	72	0	0	NA	7	6	1	0	1	0		
+108	23-May	3	84	Virgin	48	72	0	1	NA	44	0	44	0	0	0		
+109	23-May	3	Sexual	Virgin	90	47.5	0	0	NA	35	29	6	15	0	0		
+110	23-May	3	348	Virgin	73	72	0	0	NA	30	6	24	0	4	0		
+111	23-May	3	66	Virgin	48	47.5	0	0	NA	4	3	1	0	0	0		
+112	23-May	3	658	Virgin	62	72	0	0	NA	16	14	2	0	2	0		
+113	23-May	3	402	Virgin	70	72	0	0	NA	39	37	2	0	17	0		
+114	23-May	3	64	Mated	104	72	0	0	NA	35	13	22	0	18	0	1	184.192
+116	23-May	3	66	Mated	99	31.5	0	0	NA	14	4	10	0	9	0	0	184.184
+117	23-May	3	348	Mated	62	47.5	0	0	NA	24	6	18	0	5	0	1	184.192
+118	23-May	3	402	Mated	67	72	0	0	NA	8	2	6	0	3	0	1	184.192
+119	23-May	3	658	Mated	67	72	0	0	NA	31	11	20	0	0	0		
+120	23-May	3	Sexual	Mated	57	47.5	0	0	0	37	18	19	10	8	0		
+121	23-May	3	348	Virgin	73	72	0	0	NA	13	11	2	0	10	0	0	184.184
+122	23-May	3	64	Virgin	107	47.5	0	0	NA	13	6	7	0	8	0	0	184.184
+123	23-May	3	84	Virgin	77	47.5	0	1	NA	12	0	12	0	0	0		
+124	23-May	3	402	Virgin	56	72	1	1	NA	0	0	0	0	0	0		
+125	23-May	3	66	Virgin	84	72	0	0	NA	25	17	8	0	21	1		
+126	23-May	3	Sexual	Virgin	121	72	0	0	NA	20	12	8	0	9	0		
+127	23-May	3	64	Mated	49	31.5	1	1	NA	0	0	0	0	0	0		
+128	23-May	3	348	Mated	77	47.5	0	0	NA	7	2	5	0	8	0	1	184.192
+129	23-May	3	66	Mated	69	47.5	0	1	NA	7	0	7	0	2	0	0	184.184
+130	23-May	3	348	Virgin	75	47.5	0	0	NA	19	9	10	0	0	0		
+131	23-May	3	Sexual	Mated	75	47.5	0	0	1	41	25	16	21	0	0		
+132	23-May	3	64	Virgin	48	72	0	0	NA	28	20	8	0	15	0	0	184.184
+133	23-May	3	Sexual	Virgin	89	47.5	0	0	NA	27	9	18	6	0	0	1	192.192
+134	23-May	3	66	Virgin	62	47.5	0	0	NA	10	8	2	0	5	0		
+135	23-May	3	64	Mated	49	31.5	0	1	NA	3	0	3	0	1	0	0	184.184
+136	23-May	3	348	Mated	32	72	0	1	NA	12	0	12	0	0	0		
+137	23-May	3	64	Virgin	44	47.5	0	1	NA	5	0	5	0	0	0		
+100A	22-May	2	Sexual	Mated	47	47.5	0	0	0	20	14	6	5	6	0	1	192.192
+100B	23-May	3	348	Mated	137	47.5	0	0	NA	9	4	5	0	2	0	0	184.184
+101A	22-May	2	Sexual	Virgin	121	31.16666667	0	0	NA	11	1	10	0	0	0		
+101B	23-May	3	64	Mated	59	47.5	0	0	NA	32	22	10	0	13	0	0	184.184
+102A	22-May	2	Sexual	Mated	70	72	0	1	0	2	0	2	0	0	0		
+102B	23-May	3	66	Mated	96	72	0	0	NA	20	15	5	0	19	0	1	184.192
+103A	22-May	2	Sexual	Virgin	61	72	1	1	NA	0	0	0	0	0	0		
+104A	22-May	2	84	Mated	125	72	0	0	NA	10	8	2	0	5	0	1	184.192
+104B	23-May	3	658	Mated	59	72	0	0	NA	2	2	0	1	0	0		
+69A	22-May	2	64	Virgin	69	47.5	0	0	NA	21	4	17	0	0	0		
